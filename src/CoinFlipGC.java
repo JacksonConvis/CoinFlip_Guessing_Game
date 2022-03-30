@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class CoinFlipGC {
-
+//this program calculates a heads or tails flips using a random number generator and outputs the percentage a user guessed right
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int coin, numberOfFlips, headcount = 0, tailcount = 0, correctCount;
